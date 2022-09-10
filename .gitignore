@@ -157,4 +157,5 @@ cython_debug/
 
 # Other ignores:
 fred-keys.env
+data_env.py
 
